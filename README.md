@@ -18,3 +18,6 @@ Herramienta contable automatizada que procesa formatos de Excel para generar y c
 ## 👨‍💻 Autor
 Desarrollado por Ing. Yazmin L. Rodriguez Santiago
 - yazmin.rs.contacto@gmail.com
+
+
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
