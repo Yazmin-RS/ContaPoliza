@@ -11,9 +11,10 @@ Herramienta contable automatizada que procesa formatos de Excel para generar y c
 
 ## 🛠️ Tecnologías utilizadas
 
-- Lenguaje: Java
-- Entorno de desarrollo: NetBeans
-- Lectura de archivos Excel: Apache POI
+🛠️ Tecnologías utilizadas
+- ☕ Lenguaje: Java
+- 🧰 Entorno de desarrollo: NetBeans
+- 📊 Lectura de archivos Excel: Apache POI
 
 ## 👨‍💻 Autor
 Desarrollado por Ing. Yazmin L. Rodriguez Santiago
